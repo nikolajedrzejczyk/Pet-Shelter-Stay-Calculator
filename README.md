@@ -9,7 +9,7 @@ Projekt stworzony we współpracy w ramach przedmiotu Inżynieria oprogramowania
 
 # Wymagana dokumentacja:
 
-### Charakterystyka oprogramowania:
+## Charakterystyka oprogramowania:
 
 **Nazwa skrócona:** *Kalkulator dni*  
 
