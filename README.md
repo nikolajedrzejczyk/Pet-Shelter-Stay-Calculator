@@ -7,7 +7,7 @@ Projekt stworzony we współpracy w ramach przedmiotu Inżynieria oprogramowania
 
 ---
 
-## Wymagana dokumentacja:
+# Wymagana dokumentacja:
 
 ### Charakterystyka oprogramowania:
 
