@@ -9,9 +9,9 @@ Projekt stworzony we współpracy w ramach przedmiotu Inżynieria oprogramowania
 
 Ze względu na dużą liczbę obrazów, do repozytorium nie zostały dodane wszystkie pliki graficzne. W celach demonstracyjnych oraz dla zachowania przejrzystości projektu:
 
-- do folderu images_1 dodano 6 przykładowych zdjęć
-- do folderu psy_i_koty/Cat dodano 6 przykładowych zdjęć kotów
-- do folderu psy_i_koty/Dog dodano 6 przykładowych zdjęć psów
+- do folderu images_1 dodano 5 przykładowych zdjęć
+- do folderu psy_i_koty/Cat dodano 5 przykładowych zdjęć kotów
+- do folderu psy_i_koty/Dog dodano 5 przykładowych zdjęć psów
 
 ---
 
