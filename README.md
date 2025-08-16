@@ -3,13 +3,13 @@ Prediction of shelter pet length of stay using animal data to improve shelter re
 
 Adres aplikacji: https://inzynieria-oprogramowania-kalkulator-dni.streamlit.app
 
-Projekt stworzony we współpracy w ramach przedmiotu Inżynieria oprogramowania na Uniwersytecie Gdańskim.
+Projekt stworzony we współpracy w ramach przedmiotu Inżynieria oprogramowania na Uniwersytecie Gdańskim. [Luty 2025]
 
 ---
 
-## Wymagana dokumentacja
+## Wymagana dokumentacja:
 
-### Charakterystyka oprogramowania
+### Charakterystyka oprogramowania:
 
 **Nazwa skrócona:** *Kalkulator dni*  
 
@@ -19,14 +19,14 @@ Projekt stworzony we współpracy w ramach przedmiotu Inżynieria oprogramowania
 
 ---
 
-## Prawa autorskie
+## Prawa autorskie:
 
 **Autorki:** Aleksandra Gomulak, Nikola Jędrzejczyk  
 **Licencja:** GNU GENERAL PUBLIC LICENSE, Version 2  
 
 ---
 
-## Specyfikacja wymagań
+## Specyfikacja wymagań:
 
 | identyfikator | nazwa               | opis                                                                                      | priorytet  | kategoria       |
 |---------------|---------------------|------------------------------------------------------------------------------------------|------------|-----------------|
@@ -41,9 +41,9 @@ Projekt stworzony we współpracy w ramach przedmiotu Inżynieria oprogramowania
 
 ---
 
-## Architektura systemu/oprogamowania  
+## Architektura systemu/oprogamowania: 
 
-### Architektura rozwoju  
+### Architektura rozwoju:
 
 | nazwa                          | przeznaczenie                                                                                       | wersja               |
 |--------------------------------|-----------------------------------------------------------------------------------------------------|----------------------|
@@ -62,7 +62,7 @@ Projekt stworzony we współpracy w ramach przedmiotu Inżynieria oprogramowania
 | shutil                        | Pobieranie plików .zip                                                        | Wbudowana funkcja           |
 
 
-### Architektura uruchomieniowa  
+### Architektura uruchomieniowa:
 
 | nazwa             | przeznaczenie                                | wersja  |
 |-------------------|-----------------------------------------------|---------|
@@ -72,9 +72,9 @@ Projekt stworzony we współpracy w ramach przedmiotu Inżynieria oprogramowania
 
 ---
 
-## Testy
+## Testy:
 
-### Scenariusze testów
+### Scenariusze testów:
 
 | identyfikator testu | opis testu                                           | dane testowe                                                                 | oczekiwany rezultat                                                                                                      |
 |---------------------|------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
@@ -90,16 +90,16 @@ Projekt stworzony we współpracy w ramach przedmiotu Inżynieria oprogramowania
 
 ---
 
-### Sprawozdanie z wykonania scenariuszy testów
+### Sprawozdanie z wykonania scenariuszy testów:
 
 | identyfikator testu | status | rzeczywisty rezultat                                                                 | komentarz                                                                                                               |
 |---------------------|--------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| TEST-001            | PASS   | Wynik: „58 dni”                                                                        | Test zakończony sukcesem                                                                                                |
-| TEST-002            | PASS   | Na następnej stronie zostają wyświetlone jedynie rasy kotów                            | Test zakończony sukcesem                                                                                                |
-| TEST-003            | PASS   | Zmiana strony na poprzednią/następną                                                   | Test zakończony sukcesem                                                                                                |
-| TEST-004            | PASS   | Przekierowanie do strony z pierwszym pytaniem                                           | Test zakończony sukcesem                                                                                                |
-| TEST-005            | PASS   | Przekierowanie do strony z pierwszym pytaniem                                           | Test zakończony sukcesem                                                                                                |
-| TEST-006            | PASS   | Ustawiono cechy zwierzęcia jako „niezidentyfikowany”                                   | Test zakończony sukcesem                                                                                                |
-| TEST-007            | PASS   | Ustawiono liczbę jako 5                                                                 | Test zakończony sukcesem                                                                                                |
-| TEST-008            | PASS   | Zapisano rasę jako „Mieszaniec”/„Europejska”                                           | Test zakończony sukcesem                                                                                                |
-| TEST-009            | FAIL   | Szacowany czas pobytu zwierzęcia podany z możliwym błędem wynoszącym 65 dni             | Model wymaga optymalizacji (natura danych nie pozwoliła na osiągnięcie lepszego wyniku bez względu na użyty model)      |
+| `TEST-001`          | PASS   | Wynik: „58 dni”                                                                        | Test zakończony sukcesem                                                                                                |
+| `TEST-002`         | PASS   | Na następnej stronie zostają wyświetlone jedynie rasy kotów                            | Test zakończony sukcesem                                                                                                |
+| `TEST-003`          | PASS   | Zmiana strony na poprzednią/następną                                                   | Test zakończony sukcesem                                                                                                |
+| `TEST-004`        | PASS   | Przekierowanie do strony z pierwszym pytaniem                                           | Test zakończony sukcesem                                                                                                |
+| `TEST-005`            | PASS   | Przekierowanie do strony z pierwszym pytaniem                                           | Test zakończony sukcesem                                                                                                |
+| `TEST-006`            | PASS   | Ustawiono cechy zwierzęcia jako „niezidentyfikowany”                                   | Test zakończony sukcesem                                                                                                |
+| `TEST-007`           | PASS   | Ustawiono liczbę jako 5                                                                 | Test zakończony sukcesem                                                                                                |
+| `TEST-008`            | PASS   | Zapisano rasę jako „Mieszaniec”/„Europejska”                                           | Test zakończony sukcesem                                                                                                |
+| `TEST-009`            | FAIL   | Szacowany czas pobytu zwierzęcia podany z możliwym błędem wynoszącym 65 dni             | Model wymaga optymalizacji (natura danych nie pozwoliła na osiągnięcie lepszego wyniku bez względu na użyty model)      |
